@@ -21,7 +21,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Building **web applications** with **Node.js**, **React**, and **.NET** → [NuiTeaCT](https://github.com/kieuvanson/NuiTeaCT)
+- 🚀 Building **web applications** with, **React**, and **.NET** → [NuiTeaCT](https://github.com/kieuvanson/NuiTeaCT)
 - 🧠 Focused on **backend systems**, **database performance**, and **clean architecture**.
 - 💬 Always learning — one bug, one commit at a time.
 
